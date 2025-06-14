@@ -13,6 +13,11 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:46547?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#dark%20cherry%20mystery~
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:31210?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B62
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:28780?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B63
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:33824?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B64
+
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 `;
 
