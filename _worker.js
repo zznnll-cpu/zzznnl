@@ -12,10 +12,13 @@ let timestamp = 4102366036000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:46547?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%A8%B1%E8%8A%B1%E6%BB%A1%E5%9C%B0%E9%9B%86%E4%BA%8E%E6%88%91%E5%BF%83
 trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:30273?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B61
 trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:31210?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B62
 trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:28780?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B63
 trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:33824?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E9%83%91%E5%A8%9C%E7%8E%B2%E6%AC%A7%E8%80%B64
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:36940?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:11210?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E4%BB%80%E4%B9%88%E6%8A%80%E8%83%BD
 
 
 
