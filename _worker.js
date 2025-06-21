@@ -13,7 +13,9 @@ let timestamp = 4102366036000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 ss://YWVzLTEyOC1nY206RXRIRTBCVllLbUJtRjZXV2hGc3crczgyV0hZYkZraW9JVzlXQS93MDRXTT0%3D@212.192.12.106:48293#%E9%A6%99%E6%B8%AF%E8%87%AA%E5%88%9Bvps%20test%201
-ss://YWVzLTEyOC1nY206RXRIRTBCVllLbUJtRjZXV2hGc3crczgyV0hZYkZraW9JVzlXQS93MDRXTT0%3D@212.192.12.106:48293#ordeixdajodacadadwada
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:30273?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C
+trojan://7452381d-63a7-446c-bdcf-fc74ff451ffa@high.ab.he.defehaita.xyz:31210?security=tls&sni=douyin.com&allowInsecure=1&type=tcp&headerType=none#%E6%B4%97%E5%A4%B4%E5%8F%91
+
 
 
 
